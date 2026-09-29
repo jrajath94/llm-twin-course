@@ -133,8 +133,8 @@ To access and set up the necessary CometML variables for your project, follow th
 Qwak is used by a range of companies across various industries, from banking and finance to e-commerce and technology, underscoring its versatility and effectiveness in handling diverse AI and ML needs. Here are a few reasons:
 
 - **End-to-End MLOps Platform**: Qwak provides tools for every stage of the machine learning lifecycle, including data preparation, model training, deployment, and monitoring. This integration helps eliminate the need for multiple disparate tools and simplifies the workflow for data science teams
-- **Integration with Existing Tools**: Qwak supports integrations with popular tools and platforms such as HuggingFace, Snowflake, Kafka, PostgreSQL, and more, facilitating seamless incorporation into existing workflows and infrastructure​.
-- **User-Friendly Interface**: Qwak offers a user-friendly interface and managed Jupyter notebooks, making it accessible for both experienced data scientists and those new to the field​
+- **Integration with Existing Tools**: Qwak supports integrations with popular tools and platforms such as HuggingFace, Snowflake, Kafka, PostgreSQL, and more, facilitating seamless incorporation into existing workflows and infrastructure.
+- **User-Friendly Interface**: Qwak offers a user-friendly interface and managed Jupyter notebooks, making it accessible for both experienced data scientists and those new to the field
 - **Smooth Developer Experience**: The CLI sdk is very intuitive and easy to use, and allows developers to scale inference/training jobs accordingly without the hassle of managing infrastructure.
 
 ### Setting Up Qwak
