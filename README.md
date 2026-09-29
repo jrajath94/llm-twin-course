@@ -22,9 +22,9 @@
 > → **No more isolated scripts or Notebooks!** Learn production ML by building and deploying an end-to-end production-grade LLM system.
 
 
-## What will you learn to build by the end of this course?
+## What will you learn to build by the end of this course?
 
-You will **learn** how to **architect** and **build a real-world LLM system** from **start** to **finish** - from **data collection** to **deployment**.
+You will **learn** how to **architect** and **build a real-world LLM system** from **start** to **finish** - from **data collection** to **deployment**.
 
 You will also **learn** to **leverage MLOps best practices**, such as experiment trackers, model registries, prompt monitoring, and versioning.
 
@@ -76,7 +76,7 @@ Along the 4 microservices, you will learn to integrate 3 serverless tools:
 * [Qdrant](https://qdrant.tech/?utm_source=decodingml&utm_medium=referral&utm_campaign=llm-course) as your vector DB;
 * [Qwak](https://www.qwak.com/lp/end-to-end-mlops/?utm_source=github&utm_medium=referral&utm_campaign=decodingml) as your ML infrastructure;
 
-## Who is this for?
+## Who is this for?
 
 **Audience:** MLE, DE, DS, or SWE who want to learn to engineer production-ready LLM systems using LLMOps good principles.
 
@@ -84,11 +84,11 @@ Along the 4 microservices, you will learn to integrate 3 serverless tools:
 
 **Prerequisites:** basic knowledge of Python, ML, and the cloud
 
-## How will you learn?
+## How will you learn?
 
 The course contains **11 hands-on written lessons** and the **open-source code** you can access on GitHub.
 
-You can read everything and try out the code at your own pace. 
+You can read everything and try out the code at your own pace. 
 
 ## Costs?
 The **articles** and **code** are **completely free**. They will always remain free.
@@ -124,7 +124,7 @@ If you plan to run the code while reading it, you have to know that we use sever
 3. [Change Data Capture: Enabling Event-Driven Architectures](https://medium.com/decodingml/the-3nd-out-of-11-lessons-of-the-llm-twin-free-course-ba82752dad5a)
 
 ### Feature Pipeline: prepare data for LLM fine-tuning & RAG
-4. [SOTA Python Streaming Pipelines for Fine-tuning LLMs and RAG — in Real-Time!](https://medium.com/decodingml/sota-python-streaming-pipelines-for-fine-tuning-llms-and-rag-in-real-time-82eb07795b87)
+4. [SOTA Python Streaming Pipelines for Fine-tuning LLMs and RAG - in Real-Time!](https://medium.com/decodingml/sota-python-streaming-pipelines-for-fine-tuning-llms-and-rag-in-real-time-82eb07795b87)
 5. [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
 
 ### Training Pipeline: fine-tune your LLM twin
