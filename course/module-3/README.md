@@ -23,7 +23,7 @@ That being said, there are 3 main types of advanced RAG techniques:
     - Post-retrieval optimization [retrieval]: process the retrieved chunks to filter out the noise
 
 You can learn more about RAG from Decoding ML LLM Twin Course: 
-- Lesson 4: [SOTA Python Streaming Pipelines for Fine-tuning LLMs and RAG — in Real-Time!](https://medium.com/decodingml/sota-python-streaming-pipelines-for-fine-tuning-llms-and-rag-in-real-time-82eb07795b87)
+- Lesson 4: [SOTA Python Streaming Pipelines for Fine-tuning LLMs and RAG - in Real-Time!](https://medium.com/decodingml/sota-python-streaming-pipelines-for-fine-tuning-llms-and-rag-in-real-time-82eb07795b87)
 - Lesson 5: [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
 
 ![Advanced RAG architecture](https://miro.medium.com/v2/resize:fit:720/format:webp/1*ui2cQRlRDVnKrXPXk7COLA.png "Advanced RAG architecture")
